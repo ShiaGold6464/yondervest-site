@@ -10,7 +10,7 @@
    To set up: get a free key at https://web3forms.com using
    the inbox you want signups sent to, then paste it here:
    ========================================================= */
-var WEB3FORMS_ACCESS_KEY = 'YOUR_ACCESS_KEY_HERE';
+var WEB3FORMS_ACCESS_KEY = '7ccaf5d5-457c-48d1-8bf6-5b8260d42bf2';
 
 (function () {
   'use strict';
